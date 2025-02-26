@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Luoyi Zhang
-
 # About me
+
+Hi! I am an undergraduate student majoring in Computer Science & Mathematics in The Hong Kong University of Science and Technology (HKUST).
+
+## Education
+
+- BSc in Computer Science & Mathematics, Hong Kong University of Science and Technology
+
+## Research Experience
